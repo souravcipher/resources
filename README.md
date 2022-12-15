@@ -1,4 +1,4 @@
-# awesome-resources
+# Awesome Resources
 
 - [Federated Learning Resources](https://github.com/souravcipher/federated-learning-resources)
 - [Differential Privacy Resources](https://github.com/souravcipher/differential-privacy-resources)
