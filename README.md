@@ -1,5 +1,5 @@
 # Awesome Resources
-
+This is an awesome curated list of educational resources.
 - [Federated Learning Resources](https://github.com/souravcipher/federated-learning-resources)
 - [Differential Privacy Resources](https://github.com/souravcipher/differential-privacy-resources)
 - [Homomorphic Encryption Resources](https://github.com/souravcipher/homomorphic-encryption-resources)
