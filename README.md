@@ -10,3 +10,4 @@ This is an awesome curated list of educational resources.
 - [Deep Learning Resources](https://github.com/souravcipher/deep-learning-resources)
 - [Computer Vision Resources](https://github.com/souravcipher/computer-vision-resources)
 - [Open Source Resources](https://github.com/souravcipher/open-source-resources)
+- [Private AI Resources]()
